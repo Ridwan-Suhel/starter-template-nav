@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    .top-header{
+        display: none;
+    }
+    #navbar_top.fixed-top{
+        /* animation: animateMe 0.2s linear; */
+        animation: none;
+    }
+}
